@@ -1,0 +1,14 @@
+D:\gitRepos\Lab\RecompileIfChangeToProperty\LibToBeUsed\WpfToUseLib\bin\Debug\WpfToUseLib.exe
+D:\gitRepos\Lab\RecompileIfChangeToProperty\LibToBeUsed\WpfToUseLib\bin\Debug\WpfToUseLib.pdb
+D:\gitRepos\Lab\RecompileIfChangeToProperty\LibToBeUsed\WpfToUseLib\bin\Debug\LibToBeUsed.dll
+D:\gitRepos\Lab\RecompileIfChangeToProperty\LibToBeUsed\WpfToUseLib\bin\Debug\LibToBeUsed.pdb
+D:\gitRepos\Lab\RecompileIfChangeToProperty\LibToBeUsed\WpfToUseLib\obj\Debug\WpfToUseLib.csprojResolveAssemblyReference.cache
+D:\gitRepos\Lab\RecompileIfChangeToProperty\LibToBeUsed\WpfToUseLib\obj\Debug\MainWindow.baml
+D:\gitRepos\Lab\RecompileIfChangeToProperty\LibToBeUsed\WpfToUseLib\obj\Debug\MainWindow.g.cs
+D:\gitRepos\Lab\RecompileIfChangeToProperty\LibToBeUsed\WpfToUseLib\obj\Debug\App.g.cs
+D:\gitRepos\Lab\RecompileIfChangeToProperty\LibToBeUsed\WpfToUseLib\obj\Debug\WpfToUseLib_MarkupCompile.cache
+D:\gitRepos\Lab\RecompileIfChangeToProperty\LibToBeUsed\WpfToUseLib\obj\Debug\WpfToUseLib.g.resources
+D:\gitRepos\Lab\RecompileIfChangeToProperty\LibToBeUsed\WpfToUseLib\obj\Debug\WpfToUseLib.Properties.Resources.resources
+D:\gitRepos\Lab\RecompileIfChangeToProperty\LibToBeUsed\WpfToUseLib\obj\Debug\WpfToUseLib.csproj.GenerateResource.Cache
+D:\gitRepos\Lab\RecompileIfChangeToProperty\LibToBeUsed\WpfToUseLib\obj\Debug\WpfToUseLib.exe
+D:\gitRepos\Lab\RecompileIfChangeToProperty\LibToBeUsed\WpfToUseLib\obj\Debug\WpfToUseLib.pdb

@@ -1,0 +1,10 @@
+D:\gitRepos\Lab\RecompileIfChangeToProperty\LibToBeUsed\LibToBeUsed\bin\Debug\LibToBeUsed.dll
+D:\gitRepos\Lab\RecompileIfChangeToProperty\LibToBeUsed\LibToBeUsed\bin\Debug\LibToBeUsed.pdb
+D:\gitRepos\Lab\RecompileIfChangeToProperty\LibToBeUsed\LibToBeUsed\obj\Debug\LibToBeUsed.csprojResolveAssemblyReference.cache
+D:\gitRepos\Lab\RecompileIfChangeToProperty\LibToBeUsed\LibToBeUsed\obj\Debug\LibToBeUsed.dll
+D:\gitRepos\Lab\RecompileIfChangeToProperty\LibToBeUsed\LibToBeUsed\obj\Debug\LibToBeUsed.pdb
+D:\gitRepos\Lab\RecompileIfChangeToProperty\LibToBeUsed\bin\Debug\LibToBeUsed.dll
+D:\gitRepos\Lab\RecompileIfChangeToProperty\LibToBeUsed\bin\Debug\LibToBeUsed.pdb
+D:\gitRepos\Lab\RecompileIfChangeToProperty\LibToBeUsed\obj\Debug\LibToBeUsed.csprojResolveAssemblyReference.cache
+D:\gitRepos\Lab\RecompileIfChangeToProperty\LibToBeUsed\obj\Debug\LibToBeUsed.dll
+D:\gitRepos\Lab\RecompileIfChangeToProperty\LibToBeUsed\obj\Debug\LibToBeUsed.pdb

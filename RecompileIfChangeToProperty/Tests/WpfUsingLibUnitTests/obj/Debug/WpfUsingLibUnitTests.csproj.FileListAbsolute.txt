@@ -1,0 +1,9 @@
+D:\gitRepos\Lab\RecompileIfChangeToProperty\Tests\WpfUsingLibUnitTests\bin\Debug\WpfUsingLibUnitTests.dll
+D:\gitRepos\Lab\RecompileIfChangeToProperty\Tests\WpfUsingLibUnitTests\bin\Debug\WpfUsingLibUnitTests.pdb
+D:\gitRepos\Lab\RecompileIfChangeToProperty\Tests\WpfUsingLibUnitTests\bin\Debug\LibToBeUsed.dll
+D:\gitRepos\Lab\RecompileIfChangeToProperty\Tests\WpfUsingLibUnitTests\bin\Debug\WpfToUseLib.exe
+D:\gitRepos\Lab\RecompileIfChangeToProperty\Tests\WpfUsingLibUnitTests\bin\Debug\LibToBeUsed.pdb
+D:\gitRepos\Lab\RecompileIfChangeToProperty\Tests\WpfUsingLibUnitTests\bin\Debug\WpfToUseLib.pdb
+D:\gitRepos\Lab\RecompileIfChangeToProperty\Tests\WpfUsingLibUnitTests\obj\Debug\WpfUsingLibUnitTests.csprojResolveAssemblyReference.cache
+D:\gitRepos\Lab\RecompileIfChangeToProperty\Tests\WpfUsingLibUnitTests\obj\Debug\WpfUsingLibUnitTests.dll
+D:\gitRepos\Lab\RecompileIfChangeToProperty\Tests\WpfUsingLibUnitTests\obj\Debug\WpfUsingLibUnitTests.pdb

@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibToBeUsed", "LibUsed\LibToBeUsed.csproj", "{EFF5120A-871A-40A4-9991-755F7066E2C6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfToUseLib", "WpfToUseLib\WpfToUseLib.csproj", "{992C0E99-5F8E-4B32-9D4C-0A2068A818C3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EFF5120A-871A-40A4-9991-755F7066E2C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFF5120A-871A-40A4-9991-755F7066E2C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFF5120A-871A-40A4-9991-755F7066E2C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFF5120A-871A-40A4-9991-755F7066E2C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{992C0E99-5F8E-4B32-9D4C-0A2068A818C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{992C0E99-5F8E-4B32-9D4C-0A2068A818C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{992C0E99-5F8E-4B32-9D4C-0A2068A818C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{992C0E99-5F8E-4B32-9D4C-0A2068A818C3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

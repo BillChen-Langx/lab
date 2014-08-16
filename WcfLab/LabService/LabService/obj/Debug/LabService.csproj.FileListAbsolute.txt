@@ -1,0 +1,5 @@
+D:\gitRepos\Lab\WcfLab\LabService\LabService\bin\LabService.dll
+D:\gitRepos\Lab\WcfLab\LabService\LabService\bin\LabService.pdb
+D:\gitRepos\Lab\WcfLab\LabService\LabService\obj\Debug\LabService.csprojResolveAssemblyReference.cache
+D:\gitRepos\Lab\WcfLab\LabService\LabService\obj\Debug\LabService.dll
+D:\gitRepos\Lab\WcfLab\LabService\LabService\obj\Debug\LabService.pdb

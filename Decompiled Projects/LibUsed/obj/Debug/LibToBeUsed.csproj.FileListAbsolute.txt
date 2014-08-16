@@ -1,0 +1,5 @@
+D:\gitRepos\Lab\Decompiled Projects\bin\Debug\LibToBeUsed.dll
+D:\gitRepos\Lab\Decompiled Projects\bin\Debug\LibToBeUsed.pdb
+D:\gitRepos\Lab\Decompiled Projects\obj\Debug\LibToBeUsed.csprojResolveAssemblyReference.cache
+D:\gitRepos\Lab\Decompiled Projects\obj\Debug\LibToBeUsed.dll
+D:\gitRepos\Lab\Decompiled Projects\obj\Debug\LibToBeUsed.pdb

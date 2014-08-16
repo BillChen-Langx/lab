@@ -1,0 +1,14 @@
+D:\gitRepos\Lab\Decompiled Projects\WpfToUseLib\bin\Debug\WpfToUseLib.exe
+D:\gitRepos\Lab\Decompiled Projects\WpfToUseLib\bin\Debug\WpfToUseLib.pdb
+D:\gitRepos\Lab\Decompiled Projects\WpfToUseLib\bin\Debug\LibToBeUsed.dll
+D:\gitRepos\Lab\Decompiled Projects\WpfToUseLib\obj\Debug\WpfToUseLib.csprojResolveAssemblyReference.cache
+D:\gitRepos\Lab\Decompiled Projects\WpfToUseLib\obj\Debug\MainWindow.g.cs
+D:\gitRepos\Lab\Decompiled Projects\WpfToUseLib\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\gitRepos\Lab\Decompiled Projects\WpfToUseLib\obj\Debug\WpfToUseLib_MarkupCompile.cache
+D:\gitRepos\Lab\Decompiled Projects\WpfToUseLib\obj\Debug\WpfToUseLib_MarkupCompile.lref
+D:\gitRepos\Lab\Decompiled Projects\WpfToUseLib\obj\Debug\MainWindow.baml
+D:\gitRepos\Lab\Decompiled Projects\WpfToUseLib\obj\Debug\WpfToUseLib.g.resources
+D:\gitRepos\Lab\Decompiled Projects\WpfToUseLib\obj\Debug\WpfUsingLib.Properties.Resources.resources
+D:\gitRepos\Lab\Decompiled Projects\WpfToUseLib\obj\Debug\WpfToUseLib.csproj.GenerateResource.Cache
+D:\gitRepos\Lab\Decompiled Projects\WpfToUseLib\obj\Debug\WpfToUseLib.exe
+D:\gitRepos\Lab\Decompiled Projects\WpfToUseLib\obj\Debug\WpfToUseLib.pdb

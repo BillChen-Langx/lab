@@ -1,0 +1,14 @@
+D:\gitRepos\Lab\RecompileIfChangeToProperty\LibToBeUsedUnitTests\bin\Debug\LibToBeUsedUnitTests.dll
+D:\gitRepos\Lab\RecompileIfChangeToProperty\LibToBeUsedUnitTests\bin\Debug\LibToBeUsedUnitTests.pdb
+D:\gitRepos\Lab\RecompileIfChangeToProperty\LibToBeUsedUnitTests\bin\Debug\LibToBeUsed.dll
+D:\gitRepos\Lab\RecompileIfChangeToProperty\LibToBeUsedUnitTests\bin\Debug\LibToBeUsed.pdb
+D:\gitRepos\Lab\RecompileIfChangeToProperty\LibToBeUsedUnitTests\obj\Debug\LibToBeUsedUnitTests.csprojResolveAssemblyReference.cache
+D:\gitRepos\Lab\RecompileIfChangeToProperty\LibToBeUsedUnitTests\obj\Debug\LibToBeUsedUnitTests.dll
+D:\gitRepos\Lab\RecompileIfChangeToProperty\LibToBeUsedUnitTests\obj\Debug\LibToBeUsedUnitTests.pdb
+D:\gitRepos\Lab\RecompileIfChangeToProperty\Tests\LibToBeUsedUnitTests\bin\Debug\LibToBeUsedUnitTests.dll
+D:\gitRepos\Lab\RecompileIfChangeToProperty\Tests\LibToBeUsedUnitTests\bin\Debug\LibToBeUsedUnitTests.pdb
+D:\gitRepos\Lab\RecompileIfChangeToProperty\Tests\LibToBeUsedUnitTests\bin\Debug\LibToBeUsed.dll
+D:\gitRepos\Lab\RecompileIfChangeToProperty\Tests\LibToBeUsedUnitTests\bin\Debug\LibToBeUsed.pdb
+D:\gitRepos\Lab\RecompileIfChangeToProperty\Tests\LibToBeUsedUnitTests\obj\Debug\LibToBeUsedUnitTests.csprojResolveAssemblyReference.cache
+D:\gitRepos\Lab\RecompileIfChangeToProperty\Tests\LibToBeUsedUnitTests\obj\Debug\LibToBeUsedUnitTests.dll
+D:\gitRepos\Lab\RecompileIfChangeToProperty\Tests\LibToBeUsedUnitTests\obj\Debug\LibToBeUsedUnitTests.pdb
