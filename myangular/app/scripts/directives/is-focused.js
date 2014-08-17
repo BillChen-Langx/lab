@@ -3,7 +3,7 @@
 
     var theModule = angular.module('directives.isFocused', []);
 
-    theModule.directive('isFocused', function ($timeout) {
+    theModule.directive('isFocused', function () {
         return {
             restrict: 'A',
             link: function (scope, element, attrs) {
@@ -15,18 +15,18 @@
                 });
                 element.bind('blur', function () {
                     console.log('blur in directive. attrs.isFocused=' + attrs.isFocused);
+
                     $('#logArea').val($('#logArea').val() +
                         'blur in directive. attrs.isFocused=' +
                         attrs.isFocused +'\n');
-                    $timeout(function () {
                         scope.$apply(attrs.isFocused + '=false');
-                    }, 0);
+
                 });
                 element.bind('focus', function () {
                     console.log('focus in directive. attrs.isFocused=' + attrs.isFocused);
-                    $timeout(function () {
-                        scope.$apply(attrs.isFocused + '=true');
-                    }, 0);
+
+                    scope.$apply(attrs.isFocused + '=true');
+
                 });
             }
         };
