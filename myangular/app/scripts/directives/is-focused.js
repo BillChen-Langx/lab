@@ -15,6 +15,9 @@
                 });
                 element.bind('blur', function () {
                     console.log('blur in directive. attrs.isFocused=' + attrs.isFocused);
+                    $('#logArea').val($('#logArea').val() +
+                        'blur in directive. attrs.isFocused=' +
+                        attrs.isFocused +'\n');
                     $timeout(function () {
                         scope.$apply(attrs.isFocused + '=false');
                     }, 0);
